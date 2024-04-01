@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
-"""Simple helper function"""
+"""
+Deletion-resilient hypermedia pagination
+"""
+
 import csv
 import math
-from typing import List, Tuple
+from typing import List, Dict
 
 
 class Server:
