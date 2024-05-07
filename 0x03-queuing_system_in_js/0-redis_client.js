@@ -1,5 +1,3 @@
-// 0-redis_client.js
-
 import redis from 'redis';
 
 const client = redis.createClient();
